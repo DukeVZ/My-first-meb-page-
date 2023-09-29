@@ -1,0 +1,71 @@
+#navigation{
+    background-color: aqua;
+}
+#navigation a{
+    text-decoration: none;
+    background-color: rgb(152, 2, 142);
+    padding: 10px 10px 10px 10px;
+    margin: 0px 20px 0px 0px;
+    display: block;
+    float: left;
+    width: 145px; 
+}
+
+
+body{
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+#mainHeading{
+    color: #c70202;
+    margin: 0px;
+}
+
+.highlight{
+    color: rgb(1, 110, 16);
+}
+
+#introText{
+    width: 591px;
+    float: left;
+}
+
+#profilePicture{
+    float: left;
+    margin: 30px 10px;
+    border-radius: 5px;
+}
+
+.reset{
+    clear: both;
+}
+
+#hobbyText{
+    width: 236px;
+    float: left;
+}
+
+#heroChot{
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#socials{
+    width: 00px;
+    height: 110px;
+    background-color: aliceblue;
+    float: left;
+}
+
+.marked{
+    color: #be0894; 
+}
+
+#pageContainer{
+    width: 1360px;
+    margin: 0px auto 0px auto;
+    background-color: #640490;
+}
